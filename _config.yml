@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 何乐不为
+email: 695671725@qq.com
+description: > # this means to ignore newlines until "baseurl:"
+  个人的博客空间，主要是存放一些工作和学习中的技术博客内容，更恰当地说应该算是笔记吧
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://whyno.me" # the base hostname & protocol for your site
+twitter_username: linshuhe
+github_username:  linshuhe
+
+# Build settings
+markdown: kramdown
