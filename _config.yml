@@ -12,7 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   个人的博客空间，主要是存放一些工作和学习中的技术博客内容，更恰当地说应该算是笔记吧
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://whyno.me" # the base hostname & protocol for your site
-twitter_username: linshuhe
+#twitter_username: linshuhe
+weibo_username:   __何乐不为__
 github_username:  linshuhe
 
 # Build settings
