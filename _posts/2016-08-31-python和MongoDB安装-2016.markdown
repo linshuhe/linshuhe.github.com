@@ -14,6 +14,7 @@ tags:
 ### Python
 Python是一门具有强类型(即变量类型是强制要求的)、动态性、隐式类型(不需要做变量声明)、大小写敏感(var和VAR代表了不同的变量)以及面向对象等特点的编程语言。**Python是一种解释型的语言，相比于C语言，Python的运行速度慢，且不能进行加密。**
 
+
 #### 一、Python的安装：
 由于我使用的开发环境是Mac OS，所以自带了Python，但由于10.10自带的版本是2.7的，所以我们需要重新安装3.x的版本，安装方法：
 
@@ -35,8 +36,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 ![这里写图片描述](http://img.blog.csdn.net/20160611173455348)
 
 除了上述方法之外，还可以直接到官网下载最新版本，直接安装即可。
- 
-____
+
 
 ### Mongo DB
 #### 一、安装
