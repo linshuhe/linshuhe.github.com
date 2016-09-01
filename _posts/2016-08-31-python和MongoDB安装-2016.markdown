@@ -36,7 +36,8 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 ![这里写图片描述](http://img.blog.csdn.net/20160611173455348)
 
 除了上述方法之外，还可以直接到官网下载最新版本，直接安装即可。
-
+ 
+____
 
 ### Mongo DB
 #### 一、安装
